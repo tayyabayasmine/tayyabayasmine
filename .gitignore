@@ -57,3 +57,6 @@ temp/
 # Test artifacts
 test_*.mp4
 sample_*.mp4
+# Preview and mockup files
+preview.html
+ui_mockup.png
